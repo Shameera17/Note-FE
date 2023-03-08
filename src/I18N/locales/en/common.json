@@ -1,3 +1,5 @@
 {
-  "welcome": "Welcome"
+  "welcome": "Welcome",
+  "greeting": "Good Morning",
+  "bye": "Bye"
 }
